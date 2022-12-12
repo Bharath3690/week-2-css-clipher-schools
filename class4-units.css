@@ -1,0 +1,22 @@
+img {
+    width: 80%;
+    height: 400px;
+}
+
+.box {
+    height: 40px;
+    background-color: rgb(255, 71, 206);
+    margin-bottom: 20px;
+}
+
+.fifty-percent {
+    width: 50%;
+}
+
+.fifty-vw {
+    width: 50vw;
+}
+
+.two-hundred-px {
+    width: 200px;
+}
